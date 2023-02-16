@@ -1,2 +1,2 @@
 # Bash Shell Scripts
-Each directory in this resipotory explains in details a script on performing specific tasks as related to Devops
+Each directory in this repository explains in details, using a shell script on performing specific tasks as related to Devops
